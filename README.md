@@ -1,2 +1,6 @@
 # ML_CW2
 Machine Learning Coursework #2 -- Graded
+
+Breast cancer is the most common cancer in the UK for women. Chemotherapy is a commonly used treatment strategy to reduce the size of locally advanced tumours before surgery. However, chemotherapy is a toxic process to the human body and it is not always effective for everyone. Complete tumour resolution at surgery, known as pathological complete response (PCR), has a high likelihood of achieving a cure and longer relapse-free survival (RFS) time. RFS is the length of time after primary treatment for cancer ends that the patient survives without any signs or symptoms of that cancer. However, only 25% of patients receiving chemotherapy will achieve a PCR, with the remaining 75% having residual disease and a range of prognosis. Better patient stratification and treatment could be achieved if PCR and RFS could be predicted using information prior to chemotherapy treatment.
+
+This github respository uses advanced machine learning methods to predict PCR (classification) and RFS (regression) using both clinically measured features and features derived from magnetic resonance images (MRI) prior to chemotherapy treatment.
